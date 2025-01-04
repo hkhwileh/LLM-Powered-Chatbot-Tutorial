@@ -37,6 +37,4 @@ This repository provides an example of building a **language model-powered chatb
 - Integrate additional tools to handle user requests dynamically.
 - Deploy as a REST service or integrate into an existing web application.
 
----
 
-Feel free to customize this further for your specific repository style or additional details.
