@@ -1,6 +1,3 @@
-Here’s a GitHub repository description based on the code provided:
-
----
 
 # LLM-Powered Chatbot Tutorial 🧠💬
 
